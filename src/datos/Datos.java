@@ -18,6 +18,7 @@ public class Datos {
     //Encapsulamiento
     String NumCom = info.getNombre()+" "+info.getCarrera()+" "+info.getSemestre();
         System.out.println("\nDatos generales alumno(a) : "+ NumCom);
+        System.out.println("Hola");
     }
     // Se crean metodos
 }
