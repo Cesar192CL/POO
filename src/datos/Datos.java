@@ -19,6 +19,7 @@ public class Datos {
     String NumCom = info.getNombre()+" "+info.getCarrera()+" "+info.getSemestre();
         System.out.println("\nDatos generales alumno(a) : "+ NumCom);
         System.out.println("Hola");
+        System.out.println("???????");
     }
     // Se crean metodos
 }
