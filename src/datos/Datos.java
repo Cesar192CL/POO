@@ -20,6 +20,7 @@ public class Datos {
         System.out.println("\nDatos generales alumno(a) : "+ NumCom);
         System.out.println("Hola");
         System.out.println("???????");
+        System.out.println("Ya pude");
     }
     // Se crean metodos
 }
