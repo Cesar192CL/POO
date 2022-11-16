@@ -21,6 +21,7 @@ public class Datos {
         System.out.println("Hola");
         System.out.println("???????");
         System.out.println("Ya pude");
+        System.err.println("NOOOOOOO");
     }
     // Se crean metodos
 }
